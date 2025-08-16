@@ -10,7 +10,7 @@ This folder contains Jupyter notebooks used in the construction and refinement o
 * **`02_data_preprocessing.ipynb`**
   Notebook for cleaning and preprocessing the extracted data, including duplicate removal, missing value handling, outlier correction, holiday classification, and temporal feature engineering.
 
-* **`readme.md` (this file)**
+* **`README.md` (this file)**
   Provides documentation for the notebook workflow and file naming conventions.
 
 ### Notes
