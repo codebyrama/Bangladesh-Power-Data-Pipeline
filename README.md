@@ -75,3 +75,8 @@ If you use this pipeline or dataset, please cite both works:
   doi={10.1109/ECAI65401.2025.11095479}
 }
 ```
+
+---
+
+
+[![DOI](https://zenodo.org/badge/1039021489.svg)](https://doi.org/10.5281/zenodo.16886304)
