@@ -41,12 +41,12 @@ Here’s a cleaned-up, publication-ready version with correct statuses, details,
 
 ## Publications
 
-* **Dataset Documentation**
+* **Dataset Documentation:**
   Md. I. Hossain, T. Nafs, S. Yeaser, A. Newaz.
   *Multi-year dataset on daily electricity demand, generation, load shedding, and external conditions in Bangladesh.*
   *Data in Brief* **62** (Oct 2025): 112014. [https://doi.org/10.1016/j.dib.2025.112014](https://doi.org/10.1016/j.dib.2025.112014).
 
-* **Analysis Using the Dataset**
+* **Analysis Using the Dataset:**
   S. Yeaser, T. Nafs, Md. I. Hossain.
   *Comparative Analysis of Deep Learning Models for Long-Term Electricity Demand Forecasting in Bangladesh Using Web-Scraped Data.*
   In: *2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)*, IEEE, Târgoviște, Romania, 26–27 June 2025, pp. 1–7. [https://doi.org/10.1109/ECAI65401.2025.11095479](https://doi.org/10.1109/ECAI65401.2025.11095479).
