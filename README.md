@@ -37,8 +37,6 @@ DOI: [10.17632/x7r7wdb39k.1](https://doi.org/10.17632/x7r7wdb39k.1)
 
 ---
 
-Here’s a cleaned-up, publication-ready version with correct statuses, details, and BibTeX.
-
 ## Publications
 
 * **Dataset Documentation:**
