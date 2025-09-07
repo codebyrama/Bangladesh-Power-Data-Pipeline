@@ -37,42 +37,52 @@ DOI: [10.17632/x7r7wdb39k.1](https://doi.org/10.17632/x7r7wdb39k.1)
 
 ---
 
+Here’s a cleaned-up, publication-ready version with correct statuses, details, and BibTeX.
+
 ## Publications
 
 * **Dataset Documentation**
   Md. I. Hossain, T. Nafs, S. Yeaser, A. Newaz.
-  *Multi-Year Dataset on Daily Electricity Demand, Generation, Load Shedding, and External Conditions in Bangladesh.*
-  *Data in Brief*, 2025 (under review).
+  *Multi-year dataset on daily electricity demand, generation, load shedding, and external conditions in Bangladesh.*
+  *Data in Brief* **62** (Oct 2025): 112014. [https://doi.org/10.1016/j.dib.2025.112014](https://doi.org/10.1016/j.dib.2025.112014).
 
 * **Analysis Using the Dataset**
   S. Yeaser, T. Nafs, Md. I. Hossain.
   *Comparative Analysis of Deep Learning Models for Long-Term Electricity Demand Forecasting in Bangladesh Using Web-Scraped Data.*
-  In: *2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)*, IEEE, Târgoviște, Romania, 26–27 June 2025, pp. 1–7.
-  DOI: [10.1109/ECAI65401.2025.11095479](https://doi.org/10.1109/ECAI65401.2025.11095479)
+  In: *2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)*, IEEE, Târgoviște, Romania, 26–27 June 2025, pp. 1–7. [https://doi.org/10.1109/ECAI65401.2025.11095479](https://doi.org/10.1109/ECAI65401.2025.11095479).
 
 ---
 
 ## How to Cite
 
-If you use this pipeline or dataset, please cite both works:
+If this pipeline or dataset is used, please cite **both** works:
 
 ```bibtex
-@article{hossain2025dib,
-  title={Multi-Year Dataset on Daily Electricity Demand, Generation, Load Shedding, and External Conditions in Bangladesh},
-  author={Hossain, Md. Ikrama and Nafs, Tasnia and Yeaser, Sakif and Newaz, Asif},
-  journal={Data in Brief},
-  year={2025},
-  note={Under Review}
+@article{Hossain2025,
+  author  = {Md. Ikrama Hossain and Tasnia Nafs and Sakif Yeaser and Asif Newaz},
+  title   = {Multi-year dataset on daily electricity demand, generation, load shedding, and external conditions in Bangladesh},
+  journal = {Data in Brief},
+  volume  = {62},
+  pages   = {112014},
+  year    = {2025},
+  month   = {10},
+  issn    = {2352-3409},
+  doi     = {10.1016/j.dib.2025.112014},
+  url     = {https://linkinghub.elsevier.com/retrieve/pii/S235234092500736X}
 }
 
-@inproceedings{yeaser2025ecai,
-  title={Comparative Analysis of Deep Learning Models for Long-Term Electricity Demand Forecasting in Bangladesh Using Web-Scraped Data},
-  author={Yeaser, Sakif and Nafs, Tasnia and Hossain, Md. Ikrama},
-  booktitle={2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)},
-  pages={1--7},
-  year={2025},
-  publisher={IEEE},
-  doi={10.1109/ECAI65401.2025.11095479}
+@inproceedings{Yeaser2025,
+  author    = {Sakif Yeaser and Tasnia Nafs and Md. Ikrama Hossain},
+  title     = {Comparative Analysis of Deep Learning Models for Long-Term Electricity Demand Forecasting in Bangladesh Using Web-Scraped Data},
+  booktitle = {2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)},
+  address   = {T\^argovi\c{s}te, Romania},
+  month     = {6},
+  year      = {2025},
+  pages     = {1--7},
+  publisher = {IEEE},
+  isbn      = {979-8-3315-3352-6},
+  doi       = {10.1109/ECAI65401.2025.11095479},
+  url       = {https://ieeexplore.ieee.org/document/11095479/}
 }
 ```
 
